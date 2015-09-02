@@ -14,7 +14,7 @@ npm install immutable-merge --save
 ```javascript
 var merge = require('immutable-merge');
 
-objectAssign({bar: 1}, {baz: 2});
+merge({bar: 1}, {baz: 2});
 //=> {bar: 1, baz: 2}
 ```
 
