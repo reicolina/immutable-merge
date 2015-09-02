@@ -1,5 +1,5 @@
 # extend-it [![Build Status](https://travis-ci.org/reinaldo13/immutable-merge.svg?branch=master)](https://travis-ci.org/reinaldo13/immutable-merge)
-Allows you to merge objects without mutating them. It would be the equivalet of:
+Allows you to merge objects without mutating them. It would be the equivalent to:
 ```javascript
 Object.assign({}, object1, object2);
 ```
