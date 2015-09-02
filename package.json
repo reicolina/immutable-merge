@@ -1,6 +1,6 @@
 {
   "name": "immutable-merge",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Allows you to merge objects without mutating them.",
   "main": "index.js",
   "scripts": {
